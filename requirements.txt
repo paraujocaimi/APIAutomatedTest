@@ -1,0 +1,6 @@
+requests==2.23.0
+jsonpath==0.82
+pyassert==0.4.2
+allure-behave==2.8.9
+allure-pytest==2.8.9
+allure-python-commons==2.8.9
